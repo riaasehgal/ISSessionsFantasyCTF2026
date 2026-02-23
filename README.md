@@ -24,6 +24,8 @@ The gauntlet solver (`gauntletctf.py`) was the most involved — it connects ove
 ## Event
 
 - **Organizer:** [ISSessions](https://issessions.ca) — Sheridan College Cybersecurity Club  
-- **Sponsors:** KPMG, Trend Micro  
+- **Sponsors:** KPMG, Trend Micro
+- **Teammates:** Nada Elshami, Faith Aikhionbare, and Kai-Ann Parsons  
 - **Date:** February 21-22, 2026  
 - **Result:** 2nd place out of all competing teams
+
