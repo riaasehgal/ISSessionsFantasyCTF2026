@@ -1,0 +1,55 @@
+Sequence Number (raw): 1446144104
+Sequence Number (raw): 1682129515
+Sequence Number (raw): 1633112423
+Sequence Number (raw): 1682401388
+Sequence Number (raw): 1682401388
+Sequence Number (raw): 1514624633
+Sequence Number (raw): 1498960502
+Sequence Number (raw): 1667842682
+Sequence Number (raw): 1498966887
+Sequence Number (raw): 1682389095
+Sequence Number (raw): 1630694506
+Sequence Number (raw): 1635336822
+Sequence Number (raw): 1517115751
+Sequence Number (raw): 1517115751
+Sequence Number (raw): 1229286485
+Sequence Number (raw): 1229286485
+Sequence Number (raw): 1515673195
+Sequence Number (raw): 1515673195
+Sequence Number (raw): 1515673195
+Sequence Number (raw): 1517896314
+Sequence Number (raw): 1515736698
+Sequence Number (raw): 1515736698
+Sequence Number (raw): 1350124649
+Sequence Number (raw): 1732933716
+Sequence Number (raw): 1633105262
+Sequence Number (raw): 1648842362
+Sequence Number (raw): 1279476346
+Sequence Number (raw): 1633117301
+Sequence Number (raw): 1229404533
+Sequence Number (raw): 1231375169
+Sequence Number (raw): 1850946663
+Sequence Number (raw): 1364669749
+Sequence Number (raw): 1681016373
+Sequence Number (raw): 1279476335
+Sequence Number (raw): 1515735660
+Sequence Number (raw): 1229417594
+Sequence Number (raw): 1229483126
+Sequence Number (raw): 1683507559
+Sequence Number (raw): 1517123688
+Sequence Number (raw): 1517973351
+Sequence Number (raw): 1382893173
+Sequence Number (raw): 1682392698
+Sequence Number (raw): 1700089429
+Sequence Number (raw): 1382970452
+Sequence Number (raw): 1295205937
+Sequence Number (raw): 1515664746
+Sequence Number (raw): 1515600207
+Sequence Number (raw): 1299001705
+Sequence Number (raw): 1515735609
+
+ASCII:
+V2hhdCBkaWQgdGhldGhlZGVyYXRvciBzYXkgdG8ga2ljayBvZmYgZmYgIElUIElUZWVkZWVkZWVkZyBzZXNzZXNzPyDigJxTaW5nbGVzLCBzaWduIG9uIeKAnS4gQW55d2F5LCBoZXJlIGlzIHlvdXIgZmxhZzogRmFudGFzeUNURntTM3F1ZW5jZV9OMm1iZXJ9
+
+Base64:
+What did thethederator say to kick off ff  IT ITeedeedeedg sessess? "Singles, sign on!". Anyway, here is your flag: FantasyCTF{S3quence_N2mber}

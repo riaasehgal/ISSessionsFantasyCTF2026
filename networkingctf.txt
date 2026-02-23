@@ -1,0 +1,27 @@
+CEUAP RSF
+
+[PSH, ECE, CWR] -> 11001 -> 25 -> Y
+[PSH, URG, CWR] -> 10101 -> 21 -> U
+[ECE, CWR] -> 11000 -> 24 -> X
+[ACK] -> 00010 -> 2 -> B
+[PSH, ACK, URG, ECE, CWR] -> 11111 -> 31 -> ???
+[ACK, CWR] -> 10010 -> 18 -> R
+[PSH, ECE, CWR] -> 11001 -> 25 -> Y 
+[PSH, ACK, URG, ECE, CWR] -> 11111 -> 31 -> ???
+[ACK, URG] -> 00110 -> 6 -> F
+[ACK, CWR] -> 10010 -> 18 -> R
+[URG, ECE] -> 01100 -> 12 -> L
+[URG,CWR] -> 10100 -> 20 -> T
+
+[PSH, ECE, CWR] -> 10011 -> 19 -> S
+[PSH, URG, CWR] -> 10101 -> 21 -> U
+[ECE, CWR] -> 00011 -> 3 -> C
+[ACK] -> 01000 -> 8 -> H
+[PSH, ACK, URG, ECE, CWR] -> 11111 -> 31 -> ???
+[ACK, CWR] -> 01001 -> 9 -> I
+[PSH, ECE, CWR] -> 10011 -> 19 -> S
+[PSH, ACK, URG, ECE, CWR] -> 11111 -> 31 -> ???
+[ACK, URG] ->  01100 -> 12 -> L
+[ACK, CWR] -> 01001 -> 9 -> I
+[URG, ECE] -> 00110 -> 6 -> F
+[URG,CWR] -> 00101 -> 5 -> E
