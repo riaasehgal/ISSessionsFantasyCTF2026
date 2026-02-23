@@ -15,7 +15,7 @@ A 2-day CTF run by ISSessions (Sheridan College's cybersecurity club), themed ar
 | `equationsctf.py` | Equations | prog | Automated equation solver that loops against a web endpoint until flag is returned |
 | `fuzzer.py` | (SQL Injection challenge) | web | Path fuzzer to enumerate hidden endpoints on a target web app |
 | `networkingctf.txt` | Silent Messages | networking | Manual TCP flag bit decoding — maps flag combinations to ASCII characters |
-| `sniffedctf.txt` | Pegasus Papers | forensics | TCP sequence number analysis with Base64-encoded flag extraction |
+| `sniffedctf.txt` | Spell Sequence | forensics | TCP sequence number analysis with Base64-encoded flag extraction |
 
 ## Notable
 
